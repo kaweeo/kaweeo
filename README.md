@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @kaweeo
 - 👀 I’m interested in Python, Coding, Crypto, Blockchain, Trading  
-- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on small projects 
 - 📫 Reach me @ kaweeo@gmail.com
 
