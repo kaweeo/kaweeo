@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @kaweeo
-- 👀 I’m interested in Python, Coding, Crypto, Blockchain, Trading  
-- 💞️ Looking to collaborate on small projects 
+- 👋 Hi, I’m Kalin Krumov!
+- 👀 An aspiring technologist deeply fascinated by the intersection of software development and finance, with a background in trading solutions.
 - 📫 Reach me @ kaweeo@gmail.com
 
 <!---
