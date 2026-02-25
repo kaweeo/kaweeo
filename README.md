@@ -1,4 +1,4 @@
-#### 🐙 Hands-on experience with:
+#### 🐙 crafting across the reef:
 
 <p align="center">
   <!-- Foundations: Version Control & OS -->
